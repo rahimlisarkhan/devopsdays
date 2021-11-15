@@ -441,9 +441,20 @@ a:hover {
 .sup-logo {
     width: 100px;
 }
+
+.logoContent{
+    /* height: 200px; */
+    margin:15px;
+    border-radius: 5px;
+}
+
 .logoN{
-    width: 400px !important;
-    height: 400px;
+    width: 100%;
+    padding: 25px;
+    background:#171d51;
+width: 350px;
+
+object-fit: cover;
 }
 
 .logoN-w{
