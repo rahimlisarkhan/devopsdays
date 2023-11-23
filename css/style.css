@@ -29,7 +29,7 @@ h2 {
 .navbar {
   position: fixed;
   width: 100%;
-  background-color: #171d51 !important;
+  background-color: #fff !important;
   z-index: 1;
   top: 0;
 }
@@ -89,11 +89,11 @@ h2 {
 
 .nav-link {
   display: block;
-  color: #e3e4e6 !important;
+  color: #000 !important;
 }
 
 .nav-link:hover {
-  color: #e3e4e6 !important;
+  color: #000 !important;
 }
 
 .header-part-two {
